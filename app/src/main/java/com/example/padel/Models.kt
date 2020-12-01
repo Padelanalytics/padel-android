@@ -1,5 +1,5 @@
+// Francisco Javier Revilla Linares. Copyright (c) 2020 . All rights reserved.
 package com.example.padel
-
 
 class RankingList (
         val title: String,
